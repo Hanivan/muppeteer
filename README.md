@@ -1,4 +1,3 @@
-
 # Muppeteer
 
 [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
@@ -13,7 +12,6 @@ Install muppeteer with npm
   git clone git@github.com:cendekia/muppeteer.git
   cd muppeteer
   npm install
-  npm run build
   npm run dev
 ```
 
@@ -30,3 +28,8 @@ Contributions are always welcome!
 See `contributing.md` for ways to get started.
 
 Please adhere to this project's `code of conduct`.
+
+## Contributors
+
+- [@dicka88](https://www.github.com/dicka88)
+- [@Hanivan](https://www.github.com/Hanivan)
